@@ -1,4 +1,4 @@
-# Planificador de Instalación de Sistemas Operativos
+# Ejercicio 1 - Planificador de Instalación de Sistemas Operativos
 Este proyecto es una herramienta en Python para evaluar si un equipo cumple los requisitos mínimos de hardware para instalar sistemas operativos comunes.
 
 ## Descripción general
