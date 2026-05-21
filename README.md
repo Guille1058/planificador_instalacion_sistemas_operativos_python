@@ -7,6 +7,7 @@ El programa escanea el hardware del equipo actual, compara los recursos disponib
 ## Estructura del proyecto
 - `main.py`: archivo principal que contiene toda la lógica de evaluación.
 - `README.md`: documentación del proyecto.
+- `ejemplo_salida.txt`: Demostración orientativa de funcionamiento.
 
 ## Componentes del programa
 ### 1. Datos de requisitos (`REQUISITOS_SO`)

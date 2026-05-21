@@ -1,0 +1,36 @@
+--- PLANIFICADOR DE INSTALACIÓN DE SISTEMAS OPERATIVOS ---
+Seleccione el Sistema Operativo que desea evaluar:
+1. Ubuntu 24.04 LTS
+2. Debian 13
+3. Windows 11
+
+Introduzca el número de su opción: 1
+
+Analizando el hardware del sistema actual...
+
+==================================================
+   INFORME DE VIABILIDAD DE INSTALACIÓN DE SO     
+==================================================
+Sistema Operativo a evaluar: Ubuntu 24.04 LTS
+
+1. RECURSOS DETECTADOS EN EL EQUIPO:
+   - Memoria RAM Total: 62.71 GB
+   - Espacio en Disco Libre: 671.14 GB
+   - Núcleos de CPU: 24
+
+2. REQUISITOS MÍNIMOS DEL SISTEMA OPERATIVO:
+   - Memoria RAM requerida: 4.0 GB
+   - Espacio en Disco requerido: 25.0 GB
+   - Núcleos de CPU requeridos: 2
+
+3. EVALUACIÓN DE REQUISITOS:
+   - [ OK ] Memoria RAM
+   - [ OK ] Espacio en Disco
+   - [ OK ] Núcleos de CPU
+
+--------------------------------------------------
+CONCLUSIÓN: LA INSTALACIÓN ES VIABLE ✅
+El equipo cumple o supera todos los requisitos mínimos.
+==================================================
+
+[INFO] Informe guardado con éxito en: informe_ubuntu_24.04_lts.txt
