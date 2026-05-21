@@ -8,6 +8,7 @@ El programa escanea el hardware del equipo actual, compara los recursos disponib
 - `main.py`: archivo principal que contiene toda la lógica de evaluación.
 - `README.md`: documentación del proyecto.
 - `ejemplo_salida.txt`: Demostración orientativa de funcionamiento.
+- `documentacion_sistemas_operativos.pdf`: Documentación formal en la que se analizan distintos sistemas operativos.
 
 ## Componentes del programa
 ### 1. Datos de requisitos (`REQUISITOS_SO`)
