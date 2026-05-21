@@ -9,8 +9,8 @@ REQUISITOS_SO = {
         "cpu_nucleos": 2
     },
     "Debian 13": {
-        "ram_minima": 4.0,
-        "disco_minimo": 25.0,
+        "ram_minima": 2.0,
+        "disco_minimo": 15.0,
         "cpu_nucleos": 2
     },
     "Windows 11": {
