@@ -54,6 +54,10 @@ Esto inicia el flujo de ejecución al ejecutar `python main.py`.
 - Python 3.x
 - `psutil`
 
+## Librerias Utilizadas
+- psutil
+- os
+
 Instalación:
 ```bash
 pip install psutil
